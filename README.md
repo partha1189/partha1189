@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=partha1189)](https://github.com/partha1189/github-profile-trophy)
 <!--
 **partha1189/partha1189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
