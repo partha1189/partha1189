@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=partha1189)](https://github.com/partha1189/github-profile-trophy)
+[![Partha's GitHub stats](https://github-readme-stats.vercel.app/api?username=partha1189)](https://github.com/partha1189/github-readme-stats)
 <!--
 **partha1189/partha1189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
